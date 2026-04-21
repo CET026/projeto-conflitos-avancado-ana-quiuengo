@@ -3,7 +3,7 @@
 Versão: 2.0
 
 ## Objetivo Geral
-Criar documentação padronizada e reduzir erros operacionais através de processos claros.
+Criar um repositório padronizado de documentação, com processos claros, regras de validação e rastreabilidade, para reduzir erros operacionais.
 
 ## Objetivos Específicos
 1. Definir estrutura de pastas e normas de escrita.
