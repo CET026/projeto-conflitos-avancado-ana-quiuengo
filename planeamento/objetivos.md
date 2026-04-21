@@ -1,9 +1,9 @@
 # Objetivos do Projeto
 
-Versão: 1.0
+Versão: 2.0
 
 ## Objetivo Geral
-Criar um repositório de documentação organizado e consistente.
+Criar documentação padronizada e reduzir erros operacionais através de processos claros.
 
 ## Objetivos Específicos
 1. Definir estrutura de pastas e normas de escrita.
@@ -12,5 +12,5 @@ Criar um repositório de documentação organizado e consistente.
 
 ## Critérios de sucesso
 - Organização clara
-- Histórico de alterações compreensível
-- Integração apenas após validação
+- Processo diário consistente
+- Entrega final bem documentada
