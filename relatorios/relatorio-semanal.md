@@ -9,8 +9,10 @@ Trabalho inicial de organização do projeto.
 - Objetivos definidos
 
 ## Riscos
+- Falta de consistência entre versões de documentação
 - Conflitos de edição em ficheiros partilhados
 
 ## Próximos passos
-- Criar ata detalhada
+- Rever objetivos
+- Atualizar cronograma e relatório
 - Melhorar comunicação interna
