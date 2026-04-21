@@ -12,6 +12,5 @@ Trabalho inicial de organização do projeto.
 - Conflitos de edição em ficheiros partilhados
 
 ## Próximos passos
-- Registar decisões
 - Criar ata detalhada
 - Melhorar comunicação interna

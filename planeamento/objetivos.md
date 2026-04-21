@@ -14,4 +14,3 @@ Criar um repositório de documentação com regras de validação e rastreabilid
 - Organização clara
 - Revisão antes de integração
 - Registo de decisões e ações
-- Integração apenas após validação
